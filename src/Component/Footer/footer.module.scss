@@ -1,0 +1,60 @@
+
+.customeFooter{
+    border-top: solid 2px rgba(0,0,0,0.7);
+    font-size: 12px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    margin-top: 20px;
+    ul{
+        list-style-type: none;
+        margin:0;
+        padding: 0;
+        float: right;
+        li{
+            list-style-type: none;
+        margin:0;
+        padding: 0;
+        display: inline-block;
+        vertical-align: top;
+        span{
+            display: block;
+            font-size: 12px;
+            font-weight: bold;
+            margin-top: 6px;
+        }
+            a{
+                display: block;
+                width: 25px;
+                height: 25px;
+                font-size: 0;
+                background-size: 131px;
+                margin-left:10px;
+            }
+        }
+    }
+    
+}
+.scialSprite{
+    display: inline-block;
+    vertical-align: top;
+}
+.fb{
+    background-position: -6px -10px;
+}
+.twit{
+    background-position: -98px -10px;
+}
+.insta{
+    background-position: -67px -10px;
+}
+.linkden{
+    background-position: -6px -39px;
+}
+.wat{
+    background-position: -38px -10px;
+}
+.copyRightText{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 6px;
+}
